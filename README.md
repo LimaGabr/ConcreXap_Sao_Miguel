@@ -9,15 +9,15 @@ Realizando pesquisa por datas
 
 ![alt text](https://raw.githubusercontent.com/LimaGabr/concrexapbalanca/main/2.png)
 
-Apos o resultado da pesquisa o programa soma o total consumido, mostrado no canto inferior direito
+Após o resultado da pesquisa o programa soma o total consumido, mostrado no canto inferior direito
 
 ![alt text](https://raw.githubusercontent.com/LimaGabr/concrexapbalanca/main/3.png)
 
-Podendo gerar um pdf do relatorio com o resultado da pesquisa
+Podendo gerar um pdf do relatório com o resultado da pesquisa
 
 ![alt text](https://raw.githubusercontent.com/LimaGabr/concrexapbalanca/main/4.png)
 
-E também existem duas opções de graficos
+E também existem duas opções de gráficos
 
 ![alt text](https://raw.githubusercontent.com/LimaGabr/concrexapbalanca/main/5.png)
 
